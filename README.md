@@ -2,7 +2,6 @@
 Purpose of this script is to frame images in a border with an alternative color background in a square so
 that they display at the correct ratio on social media.  The script frames images and then sizes them to maximize size while maintaining image ratio, it then fills the remaining space with the chosen background color.
 
-![menu](./menu.png)
 ![output](./out.png)
 
 ## Setup
@@ -28,6 +27,9 @@ Image -> Instagram Frame
 Make sure a picture is open!
 
 Then select the output image size, the border and background color, and the framing width/height and whether to save it in the same folder as the picture.
+
+![menu](./menu.png)
+
 
 Then press Ok! And it will show the new layers in Gimp and also output a file if that option is selected.
 
