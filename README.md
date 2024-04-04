@@ -2,6 +2,9 @@
 Purpose of this script is to frame images in a border with an alternative color background in a square so
 that they display at the correct ratio on social media.  The script frames images and then sizes them to maximize size while maintaining image ratio, it then fills the remaining space with the chosen background color.
 
+![menu](./menu.png)
+![output](./out.png)
+
 ## Setup
 Gimp needs to be installed.
 
@@ -30,9 +33,9 @@ Then press Ok! And it will show the new layers in Gimp and also output a file if
 
 
 ## Future Work
-[] Add other aspect ratios
-[] Add message when no images are open after an image is closed indicating there's nothing to process
-[] Add batch processing for a directory
+- [] Add other aspect ratios
+- [] Add message when no images are open after an image is closed indicating there's nothing to process
+- [] Add batch processing for a directory
 
 
 
